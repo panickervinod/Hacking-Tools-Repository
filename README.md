@@ -1,19 +1,14 @@
-<div class="left">
-   <span class="main_header"><b></b></span><br/>
-   <span class="pagetitle">Hacking Tools Repository</span>
-   <div style="background:transparent; border-top:1px solid #005546; width:100%;"></div>
-   <p class="description">
+# Hacking Tools Repository
 <br/><br/>
 Here is a list of security tools that have been collected from the internet. These tools are specifically aimed toward security professionals and enthusiasts/hobbyists for testing and demonstrating security weaknesses.
 <br/><br/>
 These tools are created for the sole purpose of security awareness and education, they should not be used against systems that you do not have permission to test/attack. You could end up in jail.
 <br/><br/>
-Most of the tools are open source/free with a couple of exceptions,before using any tools, i recommend that you read the instructions/documentation available on each of the individual tool's websites. Although some of the tools could be listed in more than one category, they only appear in the list only once, under its primary category.             
+Most of the tools are open source/free with a couple of exceptions, before using any tools, i recommend that you read the instructions/documentation available on each of the individual tool's websites. Although some of the tools could be listed in more than one category, they only appear in the list only once, under its primary category.             
 <br/><br/>
 If you have suggestions or links to tools/scripts to submit, please do, you can fork, edit, send a pull request or you can leave a message on my <a class="link" href="https://www.instagram.com/thehackingsage"target="_blank">Instagram</a>, your name or github page will be credited.
 <br/><br/>
 <a href="#Passwords"><span class="green"><b>&#187;Passwords</b></span></a> <a href="#Scanning"><span class="green"><b>&#187;Scanning</b></span></a> <a href="#Sniffer"><span class="green"><b>&#187;Sniffer</b></span></a> <a href="#Enumeration"><span class="green"><b>&#187;Enumeration</b></span></a> <a href="#Networking_Tools"><span class="green"><b>&#187;Networking Tools</b></span></a> <a href="#Wireless"><span class="green"><b>&#187;Wireless</b></span></a> <br/><br/> <a href="#Bluetooth"><span class="green"><b>&#187;Bluetooth</b></span></a> <a href="#Web_Scanners"><span class="green"><b>&#187;Web Scanners</b></span></a> <a href="#Database"><span class="green"><b>&#187;Database</b></span></a> <a href="#Vuln_Scanners"><span class="green"><b>&#187;Vuln Scanners</b></span></a> <a href="#Vuln_Apps"><span class="green"><b>&#187;Vuln Apps</b></span></a> <a href="#Live_CD"><span class="green"><b>&#187;Live CD</b></span></a> 
-
 
 </p>      
 <table class="filelist" align="center" width="550" cellpadding="5" cellspacing="0">
@@ -112,6 +107,10 @@ If you have suggestions or links to tools/scripts to submit, please do, you can 
 <tr>
 <th class="gray"><a id = "Scanning"></a>Scanning</th>
 <th class="gray"></th>
+</tr>
+<tr>
+<td class="frame"><a class="link" href="https://github.com/thehackingsage/AutoRecon"target="_blank">Auto Recon</a></td>
+<td class="frame">AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.</td>
 </tr>
 <tr>
 <td class="frame"><a class="link" href="http://freeworld.thc.org/thc-amap"target="_blank">Amap</a></td>
